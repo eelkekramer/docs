@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelfsquad=self.webpackChunkelfsquad||[]).push([[601],{2967:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"verge-3-d","name":"verge3d","count":1,"permalink":"/blog/tags/verge-3-d"}')}}]);
